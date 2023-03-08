@@ -1,0 +1,10 @@
+.userlist {
+    text-align: center;
+    color: darkslategrey;
+    font-family: 'Roboto', sans-serif;
+    margin: 2rem;
+  }
+  
+  .userlist > h1 {
+    margin-bottom: 2rem;
+  }

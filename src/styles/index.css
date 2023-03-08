@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+
+.main {
+  text-align: center;
+}
+
+a{
+  color: white;
+}
+
+
+body {
+  background-color:bisque;
+  font-family: 'Roboto', sans-serif;
+
+}
+h1 {
+  padding: 5px;
+  font-size:larger;
+  font-style: normal;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color:cadetblue;
+  font-weight: bold;
+}
+
+button{
+  text-align: center;
+  border: 2px solid grey;
+  padding: 5px;
+  border-radius: 30px;
+  display:inline-block;
+  justify-content: center;
+  margin: 100px;
+}
+
+h5 { 
+  text-align: center;
+  justify-content: center;
+  color:cadetblue;
+}
